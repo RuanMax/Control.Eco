@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975450589260",
+    "firebase_url": "https://controleco-8d992.firebaseio.com",
+    "project_id": "controleco-8d992",
+    "storage_bucket": "controleco-8d992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975450589260:android:30e8c8a8a84359ce",
+        "android_client_info": {
+          "package_name": "controleconomia.controleco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975450589260-0p207p4h0nh6kniig1oc905b4kpo1ct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkgnIKx5EnwgJp3u8JwUSUjmL44YdIr90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
